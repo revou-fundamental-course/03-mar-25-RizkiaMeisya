@@ -1,1 +1,31 @@
 /* ini file css */
+
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .main-logo{
+
+} */
+
+.banner-img{
+    border: 1px solid;
+    height: 300px;
+}
+
+.our-profile-content{
+    border: 1px solid;
+    height: 300px;
+}
+
+.achievment-content{
+    border: 1px solid;
+    height: 300px;
+}
+
+.message-us-content{
+    border: 1px solid;
+    height: 300px;
+}
